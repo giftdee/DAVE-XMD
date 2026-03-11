@@ -52,7 +52,7 @@
     "compile-run": "^2.3.4",
     "badadvice": "^1.0.0",
     "crypto": "^1.0.1",
-    "file-type": "16.5.3",
+    "file-type": "21.3.1",
     "figlet": "^1.5.2",
     "mumaker": "^1.0.0",
     "ip-location": "^1.0.1",
